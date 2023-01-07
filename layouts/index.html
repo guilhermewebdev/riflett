@@ -9,16 +9,16 @@
     <section class="presentation">
         <div class="presentation-start">
             <div class="presentation-start-text">
-                <p>Meu nome é {{ .Param "name" }} e sou o criador deste espaço virtual onde pretendo compartilhar com vocês meus pensamentos e reflexões sobre os mais diversos assuntos, como filosofia, tecnologia, ciência, cultura, política e outros.</p>
-                <p>Acredito que a reflexão e o questionamento são fundamentais para o nosso crescimento pessoal e para a construção de uma sociedade mais justa e igualitária. Por isso, aqui no {{ .Title }} vamos explorar esses temas de maneira crítica e aberta ao diálogo.</p>
+                <p>Meu nome é {{ .Param "name" }} e sou o criador deste espaço virtual, onde pretendo compartilhar meus pensamentos e análises sobre filosofia, política, tecnologia, ciência e muitos outros assuntos, de um ponto de vista pragmático, ou seja, procurando sempre encontrar soluções práticas e eficientes para os problemas que enfrentamos.</p>
+                <p>Acredito que é importante manter uma mente aberta e estar disposto a considerar diferentes perspectivas, mas também é fundamental ter um pensamento crítico e avaliar as coisas de maneira lógica e racional. Por isso, em meus textos, procuro apresentar argumentos de maneira clara e direta, sem deixar de lado a profundidade e a reflexão que cada assunto merece.</p>
             </div>
             <figure class="presentation-image">
                 {{ $image := resources.Get "images/image.webp" }}
-                <img src="{{ $image.RelPermalink }}" alt="" width="{{ $image.Width }}" height="{{ $image.Height }}">
+                <img src="{{ $image.RelPermalink }}" alt="An expressive oil painting of a italian man, with long hair and short beard, thinking, depicted as an explosion of a nebula" width="{{ $image.Width }}" height="{{ $image.Height }}">
             </figure>
         </div>
         <div>
-            <p>Espero que vocês aproveitem e participem ativamente deste espaço, compartilhando suas próprias reflexões e opiniões. Vamos juntos ampliar nossos horizontes e construir conhecimento de forma colaborativa!</p>
+            <p>Espero que você goste do que leu ou lerá aqui, e volte sempre para ver mais conteúdos interessantes. Obrigado por visitar!</p>
             <p>Um abraço,</p>
             <p>{{ .Param "name" }}</p>
         </div>

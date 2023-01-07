@@ -2,7 +2,7 @@ languageCode = 'pt-br'
 title = 'Riflett'
 theme = "paper"
 staticDir = ['static']
-disqusShortname = 'Guilherme isaías'   # add disqus comments
+disqusShortname = 'riflett'   # add disqus comments
 
 [[module.mounts]]
   source = 'assets'
