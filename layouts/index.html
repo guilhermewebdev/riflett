@@ -1,0 +1,18 @@
+{{ define "header"}}
+{{ end }}
+{{ define "main" }}
+<main>
+    <header>
+        <h1>Bem-vindo ao {{ .Title }}!</h1>
+    </header>
+    <section class="presentation">
+        <div class="presentation-text">
+            <p>Meu nome é {{ .Param "name" }} e sou o criador deste espaço virtual onde pretendo compartilhar com vocês meus pensamentos e reflexões sobre os mais diversos assuntos, como filosofia, tecnologia, ciência, cultura, política e outros.</p>
+            <p>Acredito que a reflexão e o questionamento são fundamentais para o nosso crescimento pessoal e para a construção de uma sociedade mais justa e igualitária. Por isso, aqui no {{ .Title }} vamos explorar esses temas de maneira crítica e aberta ao diálogo.</p>
+            <p>Espero que vocês aproveitem e participem ativamente deste espaço, compartilhando suas próprias reflexões e opiniões. Vamos juntos ampliar nossos horizontes e construir conhecimento de forma colaborativa!</p>
+            <p>Um abraço,</p>
+            <p>{{ .Param "name" }}</p>
+        </div>
+    </section>
+</main>
+{{ end }}

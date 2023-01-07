@@ -18,7 +18,7 @@ disqusShortname = 'Guilherme isaías'   # add disqus comments
   # home page profile
   # avatar = 'GRAVATAR_EMAIL'         # Gravatar email or image url
   name = 'Guilherme Isaías'
-  bio = 'YOUR_BIO'
+  # bio = 'YOUR_BIO'
 
   # misc
   disableHLJS = true                # disable requesting highlight.js
