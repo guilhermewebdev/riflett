@@ -23,5 +23,28 @@
             <p>{{ .Param "name" }}</p>
         </div>
     </section>
+    <section>
+        <ul>
+        {{ range $taxonomy := .Site.Taxonomies }}
+            {{ range $key, $category := $taxonomy }}
+            <li>
+                <a href="{{ .Page.RelPermalink }}">
+                    <h3>{{ $key | humanize }}</h3>
+                </a>
+                <ul>
+                {{ range first 5 $category.Pages }}
+                    <li>
+                        <a href="{{ .RelPermalink }}">
+                            <h5>{{ .Title }}</h5>
+                            <small>{{ .Summary }}..</small>
+                        </a>
+                    </li>
+                {{ end }}
+                </ul>
+            </li>
+            {{ end }}
+        {{ end }}
+        </ul>
+    </section>
 </main>
 {{ end }}

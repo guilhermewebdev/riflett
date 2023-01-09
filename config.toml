@@ -3,10 +3,17 @@ title = 'Riflett'
 theme = "paper"
 staticDir = ['static']
 disqusShortname = 'riflett'   # add disqus comments
+categories = ['filosofia']
+summaryLength = 15
 
 [[module.mounts]]
   source = 'assets'
   target = 'assets'
+
+[taxonomies]
+  category = 'categories'
+
+
 
 [params]
   # color style
