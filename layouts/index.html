@@ -23,17 +23,17 @@
             <p>{{ .Param "name" }}</p>
         </div>
     </section>
-    <section>
-        <ul>
+    <section class="categories">
+        <ul class="category-list">
         {{ range $taxonomy := .Site.Taxonomies }}
             {{ range $key, $category := $taxonomy }}
-            <li>
+            <li class="category">
                 <a href="{{ .Page.RelPermalink }}">
                     <h3>{{ $key | humanize }}</h3>
                 </a>
-                <ul>
-                {{ range first 5 $category.Pages }}
-                    <li>
+                <ul class="category-post-list">
+                {{ range last 4 $category.Pages }}
+                    <li class="category-post">
                         <a href="{{ .RelPermalink }}">
                             <h5>{{ .Title }}</h5>
                             <small>{{ .Summary }}..</small>
@@ -42,6 +42,7 @@
                 {{ end }}
                 </ul>
             </li>
+            <hr>
             {{ end }}
         {{ end }}
         </ul>

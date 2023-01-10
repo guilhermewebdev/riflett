@@ -1,11 +1,9 @@
 ---
-title: "O Que é a Vida"
+title: "O que é a vida?"
 date: 2023-01-09T00:52:22-03:00
-draft: false
+draft: true
 categories: ["Filosofia"]
 ---
-
-# O que é a vida?
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas condimentum ullamcorper turpis at auctor. Sed ut pulvinar nulla. Integer pharetra, velit consequat elementum vestibulum, nibh tellus tincidunt dui, eu pellentesque ante arcu quis arcu. Curabitur porta in mi eu porttitor. Quisque blandit sodales nisi. Suspendisse potenti. Nullam ipsum dui, hendrerit condimentum ante consequat, viverra sollicitudin erat. Donec sed ligula sed urna iaculis porta. Nam egestas diam sit amet convallis pellentesque. Proin dignissim, metus vel volutpat rutrum, urna massa volutpat mi, ac mattis felis dui sit amet lorem. Quisque malesuada porta magna a pretium. Morbi ut porttitor mauris. Praesent bibendum consequat condimentum. Integer consectetur semper facilisis. Nulla laoreet id turpis vitae bibendum.
 
