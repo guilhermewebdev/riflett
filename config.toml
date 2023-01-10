@@ -36,3 +36,4 @@ googleAnalytics = 'G-YBHL7RLVJ4'
   disableHLJS = true                # disable requesting highlight.js
   monoDarkIcon = true               # show monochrome dark mode icon
   # gravatarCdn = 'GRAVATAR_CDN_LINK' # e.g. 'https://cdn.v2ex.com/gravatar/'
+  googleAdsense = 'ca-pub-5178116163420045'
