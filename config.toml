@@ -1,11 +1,20 @@
 languageCode = 'pt-br'
 title = 'Riflett'
 theme = "paper"
-staticDir = ['static']
 disqusShortname = 'riflett'   # add disqus comments
 categories = ['filosofia']
 summaryLength = 15
 googleAnalytics = 'G-YBHL7RLVJ4'
+
+[menu]
+[[menu.main]]
+  identifier = 'privacy-policy'
+  name = 'Privacidade'
+  url = '/privacy-policy/'
+[[menu.footer]]
+  identifier = 'privacy-policy'
+  name = 'Privacidade'
+  url = '/privacy-policy/'
 
 [[module.mounts]]
   source = 'assets'
@@ -13,8 +22,6 @@ googleAnalytics = 'G-YBHL7RLVJ4'
 
 [taxonomies]
   category = 'categories'
-
-
 
 [params]
   # color style
