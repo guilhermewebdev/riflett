@@ -5,6 +5,7 @@ staticDir = ['static']
 disqusShortname = 'riflett'   # add disqus comments
 categories = ['filosofia']
 summaryLength = 15
+googleAnalytics = 'G-YBHL7RLVJ4'
 
 [[module.mounts]]
   source = 'assets'
