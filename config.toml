@@ -1,5 +1,5 @@
 languageCode = 'pt-br'
-basePath = '/'
+baseURL = '/'
 title = 'Riflett'
 theme = "paper"
 disqusShortname = 'riflett'   # add disqus comments
