@@ -1,6 +1,6 @@
 ---
 title: "O que é a vida?"
-date: 2023-01-09T00:52:22-03:00
+date: 2023-01-14T00:52:22-03:00
 draft: false
 categories: ["Filosofia"]
 og:

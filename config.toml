@@ -7,6 +7,9 @@ categories = ['filosofia']
 summaryLength = 15
 googleAnalytics = 'G-YBHL7RLVJ4'
 
+[author]
+  name = 'Guilherme Isaías'
+
 [menu]
 [[menu.main]]
   identifier = 'privacy-policy'
