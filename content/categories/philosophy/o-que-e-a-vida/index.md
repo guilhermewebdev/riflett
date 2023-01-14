@@ -3,7 +3,14 @@ title: "O que é a vida?"
 date: 2023-01-09T00:52:22-03:00
 draft: false
 categories: ["Filosofia"]
+og:
+    properties:
+        image: "image.png"
 ---
+A vida é uma ilusão da mente humana.
+
+![A vida não existe](image.png)
+
 Esta pergunta é uma daquelas que a humanidade tenta responder há milhares de anos. As pessoas oferecem respostas  de várias maneiras, mas, na maioria das vezes, elas não são objetivas. Há respostas mais filosóficas, mais  científicas e até mesmo mais emocionais, falando sobre as maravilhas da vida. Neste texto, tentarei ser frio,  cético e pragmático com esta pergunta, tentando me aproximar mais do centro da pergunta e desfazendo o viés  humano. Dessa forma, a resposta não será convencional.
 
 Para começar, "vida" é um conceito e uma palavra criada por seres humanos. Eles atribuíram significado para esse termo. Portanto, sim, é importante explorarmos as diferentes respostas que as pessoas oferecem ao longo do tempo. Então, vamos lá.
