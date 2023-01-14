@@ -1,16 +1,100 @@
 ---
 title: "O que é a vida?"
 date: 2023-01-09T00:52:22-03:00
-draft: true
+draft: false
 categories: ["Filosofia"]
 ---
+Esta pergunta é uma daquelas em que a humanidade tenta responder há milhares de anos,
+na qual as pessoas oferecem respostas de várias maneiras, e na maioria das vezes não são respostas objetivas. Há respostas mais filosóficas, mais científicas, e até mesmo mais emocionais, falando sobre as maravilhas da vida. Neste texto tentarei ser frio, cético e pragmático com esta pergunta, tentando me aproximar mais do centro da pergunta e desfazendo o viés humano, desta forma a resposta não será muito convencional.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas condimentum ullamcorper turpis at auctor. Sed ut pulvinar nulla. Integer pharetra, velit consequat elementum vestibulum, nibh tellus tincidunt dui, eu pellentesque ante arcu quis arcu. Curabitur porta in mi eu porttitor. Quisque blandit sodales nisi. Suspendisse potenti. Nullam ipsum dui, hendrerit condimentum ante consequat, viverra sollicitudin erat. Donec sed ligula sed urna iaculis porta. Nam egestas diam sit amet convallis pellentesque. Proin dignissim, metus vel volutpat rutrum, urna massa volutpat mi, ac mattis felis dui sit amet lorem. Quisque malesuada porta magna a pretium. Morbi ut porttitor mauris. Praesent bibendum consequat condimentum. Integer consectetur semper facilisis. Nulla laoreet id turpis vitae bibendum.
+Para começar, vida, é um conceito e uma palavra criada por seres humanos, eles atribuíram 
+significado para esse termo, portanto sim, é importante explorarmos as diferentes respostas 
+que as pessoas oferecem ao longo do tempo. Então vamos lá.
 
-Praesent aliquam turpis id vehicula auctor. Vivamus ac faucibus lorem, quis tempus erat. Aenean egestas magna lectus, molestie tristique sapien dictum vitae. Sed vitae mauris eget velit aliquam condimentum. Proin consequat, turpis lacinia hendrerit sagittis, augue odio sodales odio, id auctor nisl sem cursus augue. Aliquam vehicula tortor sed turpis ullamcorper suscipit. Integer augue purus, mollis sit amet velit pharetra, pellentesque pretium orci.
 
-Nulla ante risus, venenatis ac tristique vel, sagittis sed ligula. Donec quam justo, imperdiet et mattis eget, volutpat ac diam. Vestibulum id lorem posuere magna accumsan aliquam. Aliquam mattis pulvinar ultrices. Donec mauris diam, interdum et ante mollis, tempor ultrices nisi. Aliquam pulvinar in tortor eu mattis. Vivamus porttitor tempus magna, quis blandit purus interdum a. Nunc id luctus odio, vitae maximus arcu. Donec ac consequat sem, quis sodales lacus. Cras mollis at arcu nec consequat. Maecenas lacinia gravida magna nec molestie. Sed arcu massa, scelerisque vel quam ut, facilisis ultrices augue. Nulla finibus consectetur bibendum. Nunc consectetur pellentesque purus, sit amet finibus augue sagittis eget. Fusce vehicula justo quis euismod aliquam.
+## De um ponto de vista científico
 
-Integer sed ex quam. Vivamus eleifend placerat odio nec fermentum. Etiam vulputate turpis ac finibus tincidunt. Sed pulvinar molestie ex, quis rutrum erat malesuada mattis. Vestibulum at orci nisi. Pellentesque tellus dolor, dignissim vel consectetur cursus, porttitor et velit. Morbi quam eros, pulvinar nec ipsum non, efficitur interdum elit. Ut pharetra risus a nulla congue vestibulum. Suspendisse id condimentum felis. In convallis tincidunt elit ac sodales. Quisque elementum ac sem vel pulvinar. Mauris scelerisque urna tortor, egestas elementum ante tincidunt a.
+> A qualidade que distingue um ser funcional e vital de um corpo não vivente ou pura e simplesmente da matéria química.
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse potenti. Praesent sit amet lobortis purus, non venenatis tortor. In lobortis tempor libero et pellentesque. Vivamus commodo posuere lacus, consectetur pharetra magna consequat nec. Sed vitae mi at ipsum tincidunt rutrum. Curabitur dignissim velit purus, nec porta augue luctus fermentum. Suspendisse sodales odio ut pellentesque pretium. Proin id tortor velit. Vivamus varius vulputate dui, in imperdiet dui pharetra eget. Donec at erat id tortor ultricies hendrerit vel id lacus. Etiam eu accumsan velit, et suscipit mauris. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+> O estado de um complexo material ou indivíduo, caracterizado pela capacidade de executar certas funcionalidades incluindo metabolismo, crescimento e reprodução.
+
+> A sequência de experiências mentais e físicas que constituem a existência de um indivíduo.
+
+Este texto retirado do site [Wikibooks](https://pt.wikibooks.org/wiki/Biologia_celular/O_que_é_a_vida), acessado em 13 de janeiro de 2023, sem dúvidas é o ponto de vista mais simples, porque ele tenta ser o mais objetivo, e também utiliza-se de argumentos lógicos para elaborar a definição, o que facilita o entendimento da maioria.
+
+Em meio científico o objetivo de fazer tal pergunta é ter o máximo de domínio possível sobre o assunto. E geralmente quando se sabe que tal domínio foi alcançado, é quando conseguimos reproduzir tal fenômeno em laboratório. Porém apenas com essas definições não conseguimos ainda, então falta alguma coisa.
+
+## De um ponto de vista emotivo
+
+> A vida é uma aventura: viva, sinta, ame, ria, chore, brinque, ganhe, perca, tropece, mas sempre levante-se e siga.
+
+> A vida é uma sala de tortura, da qual somente sairemos mortos.
+
+> A vida é saber segurar o guarda-chuva quando chove.
+
+Essas definições, retiradas do site [A mente é maravilhosa](https://amenteemaravilhosa.com.br/o-que-e-a-vida/), acessado em 13 de janeiro de 2023, trazem definições de maneira subjetiva, onde cada pessoa que trouxe uma resposta se baseou no dia a dia humano, ou em experiências próprias. Onde a vida não é mais uma coisa, ou um fenômeno. São metáforas onde o ser humano é o centro da definição.
+
+Porém essas definições não nos aproximam do centro da pergunta, elas acabam nos distanciando,
+aceitando que não vamos conseguir preencher o vazio que essa pergunta trás. Desta forma não se pode ter como referência para de fato responder a pergunta, este não é o caminho para avançarmos realmente no entendimento do conceito.
+
+## De um ponto de vista filosófico
+
+Platão argumentava que a vida tem um propósito moral e espiritual, e que a verdadeira realização na vida vem da busca da sabedoria e do conhecimento das coisas ideais.
+
+Aristóteles, por outro lado, argumentava que o objetivo da vida é alcançar a felicidade, ou a "eudaimonia", através da realização de nossas faculdades humanas naturais, como a razão e a virtude.
+
+O filósofo existencialista Jean-Paul Sartre argumentou que a vida não tem um propósito ou significado intrínseco, e que é a responsabilidade do indivíduo dar significado à sua própria existência.
+
+Outros pensadores como Nietzsche, Heidegger, Camus, também propuseram suas próprias interpretações sobre o significado da vida, mas esses são apenas alguns exemplos de como a filosofia tem abordado o conceito de vida.
+
+Então podemos ver que a filosofia é um campo aberto para essa definição, ela mistura tanto conceitos mais emocionais, quanto racionais para tentar descrever a vida. Tentando atacar o problema de ângulos diferentes, cada um seguindo um caminho diferente para tal. Talvez este seja um caminho onde podemos nos aproximar mais da definição central. Porque tenta usar todos os recursos que temos.
+
+## Avançando no conceito
+
+Vimos que se reunirmos os conceitos que temos sobre a vida, ainda não conseguimos definir com exatidão o que é, e nem conseguimos ter total domínio sobre o assunto, pois há inconsistências. Vimos também que existem duas principais direções ao tentar definir a vida, um conceito biológico, e um conceito humano, mais filosófico. Então venho aqui propor um avanço.
+
+A proposta que quero trazer, é que na verdade a vida é uma ilusão da mente humana, não existe vida na realidade. E dentre o conceito biológico e filosófico, eu me refiro aos dois.
+
+Existe um paradoxo citado por alguns filósofos como Heráclito, Sócrates, Platão, dentre outros, que se chama "Navio de Teseu". Para quem não conhece, o paradoxo diz:
+
+> Se eu tenho um navio de madeira, e preciso trocar tábuas para preserva-lo, a medida que ele se deteriora. Um dia terei diversas tábuas retiradas do navio, e o navio montado não terá mais nenhuma da qual ele foi fabricado. E eu poderei usar as tábuas retiradas e construir um novo navio. Desta forma eu terei 2 navios. Um montado com as tábuas retiradas, que são as originais do navio, e outro, com as tábuas substituídas. A questão é, qual é o navio original?
+
+E o que esse paradoxo têm a ver com a definição de vida?
+
+Se uma vida é composta por átomos, ou células, assim como um navio é composto por tábuas. Através desse paradoxo, podemos fazer uma analogia entre vida e o navio. E se pararmos para pensar, também não existe navio. Um navio é apenas um amontoado de tábuas, que boia, e o ser humano decidiu que iria chamar isso de navio. Mas no fundo, é apenas uma ilusão da mente humana, são apenas tábuas, assim como a vida, é apenas átomos.
+
+Então, se foi o ser humano quem denominou aquele amontoado de tábuas como "navio", ele também pode decidir qual navio é o original. Ele criou os critérios para definir o que é um navio, ele também pode criar os critérios para decidir qual é o navio original. E isso já foi resolvido, de uma maneira muito sutil, e que poucos relacionam, mas hoje nós conseguimos identificar navios, assim como carros. O ser humano já criou critérios para identificar veículos com placas, número do chassi, dentre outros detalhes. 
+
+Se a vida também é um conceito criado por seres humanos, então ele pode usar os critérios que bem entender. Então todas as definições estão corretas, pois foram seres humanos quem trouxeram tais definições. Só que isso nos gera um problema, inconsistência. Se o que cada um diz está certo, então como podemos enxergar a realidade? Precisamos remover o viés humano.
+
+## Removendo o viés humano
+
+Neste ponto, precisamos ter cuidado, pois não dá para discutir essa ideia sem fazer o uso da linguagem, e a linguagem também foi criada por seres humanos, e isso pode trazer distorções no pensamento.
+
+Se começarmos a desconstruir conceitos como navios, vida e etc, iremos chegar a tábuas, células, átomos, energia e mais profundos quanto a ciência consegue ir. Mas não necessariamente precisamos ir tão fundo, podemos usar essa ferramente apenas para avançar quando for necessário, por exemplo, de navio para tábuas, de célula para átomo. Ou seja, quebrar apenas o objeto de estudo, que nesse caso será a vida. Assim não ficamos sem recursos linguísticos para discutir sobre o assunto.
+
+Então, o grande problema com esse conceito, na verdade, é a linguagem, que nos impõe o viés humano para discutir determinados assuntos. Dessa forma, é mais difícil se aprofundar em conceitos e chegar até a raiz da dúvida.
+
+Isso também nos faz achar que existe diferença entre algo vivo, e algo não vivo, pois são conceitos diferentes. Podemos achar que uma pedra não é vida porque não tem as definições não se enquadram. Mas talvez seja, e estamos nos limitando por conceitos linguísticos. Então se começarmos a considerar que a vida não se difere muito de pedras, pois ambas são um amontoado de átomos, fica mais fácil de imaginar sua origem, porque as pedras têm uma origem mais fácil de entender. Assim, não precisamos imaginar que foi um evento mágico que transformou átomos inanimados em um ser vivo.
+
+Hoje o ser humano já não se enxerga tanto como o centro do universo, como era na idade média. E com esse pensamento de não sermos tão diferente de pedras, pode deixar-nos ainda menos especiais. Isso é importante pois no fundo, ainda temos uma esperança de a vida ter algum propósito, ou de sermos especiais de alguma forma. Mas tudo isso é uma ilusão, são mecanismos que nosso cérebro adquiriu para perpetuarmos a espécie.
+
+### Questionamentos
+
+É claro que essa ideia trás outras dúvidas, como "Mas o que nos faz tomar decisões?", "Porque somos animados, e corremos atrás de nos alimentar?", "Onde está o limite entre vivo, e não vivo?". Mas essas perguntas não são tão difíceis de responder.
+
+#### Mas o que nos faz tomar decisões?
+
+A verdade é que não tomamos decisões, seguindo essa linha não temos livre-arbítrio. Nossas atitudes são só consequências de fenômenos acontecendo no nosso corpo, reações químicas e físicas.
+
+#### Porque somos animados, e corremos atrás de nos alimentar?
+
+Se for parar para pensar, as definições de vida fornecidas pela ciência não se difere muito das definições de fogo, por exemplo. Porque ele não está longe de ter capacidade de crescimento, reprodução, respiração e sensibilidade ao ambiente. Que são características atribuídas a vida. E o fogo é considerado um fenômeno da natureza, então talvez nós também somos.
+
+#### Onde está o limite entre vivo, e não vivo?
+
+A verdade é que não há, somos a mesma coisa. A única diferenciação é uma definição humana, como havia dito. Nós seres humanos estabelecemos esses limites, mas na verdade ele não existe. É como as fronteiras entre países, não existem limites reais, são imaginários.
+
+É claro que essa visão não responde a pergunta sobre a origem da vida, nem oferece uma fórmula para reproduzi-la em laboratório. Mas tenta remover as lentes embaçadas que o viés humano e a linguagem colocam na frente do conceito. Isso abre nossa mente para explorarmos pontos de vistas mais profundos no assunto.
+
+Esse ponto de vista pragmático na análise da vida biológica, também impacta a análise da vida filosófica. Um dos motivos é como havia dito, que não somos mais tão especiais. Mas também podemos pensar que se criamos conceitos, e nos enrolamos com eles, como é o caso do navio e também da vida, isso acontece com diversas outras coisas, inclusive com nossos conceitos filosóficos sobre a vida. E isso aprofunda na ideia de que nossa vida não tem propósito, nem sentido, somos nós quem atribuímos. E também não precisa ser bons propósitos, nem propósitos românticos e cinematográficos. Nos atribuímos propósito independentemente da nossa vontade, mesmo que conscientemente não façamos isso, nós atribuímos.
