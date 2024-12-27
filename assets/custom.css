@@ -1,0 +1,6 @@
+body:is(.dark *)::before {
+    position: fixed;
+    inset: 0px;
+    content: var(--tw-content);
+    background-color: rgb(0 0 0 / 0.92);
+}
