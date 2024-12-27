@@ -9,7 +9,7 @@ og:
 ---
 A vida é uma ilusão da mente humana.
 
-![A vida não existe](image.png)
+![A vida não existe](image.webp)
 
 Esta pergunta é uma daquelas que a humanidade tenta responder há milhares de anos. As pessoas oferecem respostas  de várias maneiras, mas, na maioria das vezes, elas não são objetivas. Há respostas mais filosóficas, mais  científicas e até mesmo mais emocionais, falando sobre as maravilhas da vida. Neste texto, tentarei ser frio,  cético e pragmático com esta pergunta, tentando me aproximar mais do centro da pergunta e desfazendo o viés  humano. Dessa forma, a resposta não será convencional.
 
