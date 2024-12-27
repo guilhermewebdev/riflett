@@ -14,6 +14,7 @@
             </div>
             <figure class="presentation-image">
                 {{ $image := resources.Get "images/image.webp" }}
+                {{ $image = $image.Resize "250x250" }}
                 <img src="{{ $image.RelPermalink }}" alt="An expressive oil painting of a italian man, with long hair and short beard, thinking, depicted as an explosion of a nebula" width="{{ $image.Width }}" height="{{ $image.Height }}">
             </figure>
         </div>
