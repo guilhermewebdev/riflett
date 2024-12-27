@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{ $sass := resources.Get "scss/home.scss" }}
-{{ $style := $sass | resources.ToCSS | minify }}
+{{ $style := $sass | css.Sass | minify }}
 <link rel="stylesheet" href="{{ $style.RelPermalink }}">
 <main>
     <header>
