@@ -5,9 +5,9 @@ draft: false
 categories: ["Filosofia"]
 og:
     properties:
-        image: "image.png"
+        image: "image.webp"
 ---
-![Retorno a realidade](image.png)
+![Retorno a realidade](image.webp)
 
 ## A sala vazia e o olhar perdido
 
