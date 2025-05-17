@@ -5,7 +5,7 @@ draft: false
 categories: ["Filosofia"]
 og:
     properties:
-        image: "image.png"
+        image: "image.webp"
 ---
 A vida é uma ilusão da mente humana.
 
