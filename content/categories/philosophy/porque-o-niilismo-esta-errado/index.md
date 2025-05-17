@@ -7,7 +7,8 @@ og:
     properties:
         image: "image.webp"
 ---
-![Retorno a realidade](image.webp)
+
+{{<figure src="image.webp" alt="Retorno a realidade" class="float-left-portrait" >}}
 
 ## A sala vazia e o olhar perdido
 
