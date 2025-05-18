@@ -1,5 +1,5 @@
 ---
-title: Porque não acreditar em Deus?
+title: Por que não acreditar em Deus?
 date: 2025-05-17
 draft: false
 categories: ["Religião", "Filosofia"]
