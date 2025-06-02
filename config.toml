@@ -3,9 +3,10 @@ baseURL = '/'
 title = 'Riflett'
 theme = "paper"
 disqusShortname = 'riflett'   # add disqus comments
-categories = ['filosofia']
+categories = ['Filosofia', 'Religião', 'Cosmologia']
 summaryLength = 15
 googleAnalytics = 'G-YBHL7RLVJ4'
+staticDir = 'static'
 
 [author]
   name = 'Guilherme Isaías'
@@ -20,6 +21,7 @@ googleAnalytics = 'G-YBHL7RLVJ4'
   name = 'Privacidade'
   url = '/privacy-policy/'
 
+[module]
 [[module.mounts]]
   source = 'assets'
   target = 'assets'
