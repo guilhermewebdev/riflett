@@ -33,7 +33,7 @@
                     <h3>{{ $key | humanize }}</h3>
                 </a>
                 <ul class="category-post-list">
-                {{ range last 4 $category.Pages }}
+                {{ range first 6 $category.Pages.ByDate.Reverse }}
                     <li class="category-post">
                         <a href="{{ .RelPermalink }}">
                             <h4>{{ .Title }}</h4>
